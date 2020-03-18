@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeuCepApp</string>
+    <string name="cep">CEP</string>
+    <string name="logradouro">logradouro</string>
+    <string name="bairro">bairro</string>
+    <string name="localidade">localidade</string>
+</resources>
